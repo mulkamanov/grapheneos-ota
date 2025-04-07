@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "full": {
+    "location_ota": "https://github.com/mulkamanov/grapheneos-ota/releases/download/2025040400/akita-2025040400-970baef-rootless.zip",
+    "location_csig": "https://github.com/mulkamanov/grapheneos-ota/releases/download/2025040400/akita-2025040400-970baef-rootless.zip.csig"
+  }
+}
